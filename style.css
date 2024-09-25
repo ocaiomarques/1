@@ -1,0 +1,22 @@
+.fundo{
+    background-color: rgb(255, 255, 255);
+}
+.campo{
+    padding: 13px;
+    background-color: transparent;
+    border: 1px solid grey;
+    border-radius: 30px;
+    font-size: 17px;
+    width: 550px;
+}
+.botao{
+    padding: 5px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    border-color: none;
+    cursor: pointer;
+}
+
+.botao:hover {
+    border: 1px solid grey;
+}
